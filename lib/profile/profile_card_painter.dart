@@ -14,8 +14,8 @@ class ProfileCardPainter extends CustomPainter {
     final paint = Paint()..color = color;
 
     final brownBounds =
-        Rect.fromLTWH(0, size.height - avatarRadius, size.width, 1);
-    final brown = Paint()..color = Color(0x50000000);
+        Rect.fromLTWH(0, size.height - avatarRadius, size.width, avatarRadius);
+    final brown = Paint()..color = Color(0x20000000);
     canvas.drawRect(brownBounds, brown);
 
     final centerAvatar = Offset(shapeBounds.center.dx, shapeBounds.bottom);

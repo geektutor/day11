@@ -46,6 +46,8 @@ class About extends StatelessWidget {
           width: double.infinity,
           height: 100,
           child: CardConnect(
+            cardColor: Colors.blue.shade800,
+            iconColor: Colors.white,
             cardIcon: FontAwesomeIcons.envelope,
             cardLink: 'Shoot me an Email',
             url: 'mailto: sodiq.akinjobi@gmail.com',
