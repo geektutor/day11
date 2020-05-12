@@ -6,6 +6,8 @@ For this challenge, I tried to rebuild a version of (https://www.uplabs.com/post
 
 Here is my final screen
 
+![Final Screen][logo]
+
 Other screenshots as I went through the development process can be found ()[here]
 
-I learnt CustomPaint majorly with this task and how to work with SingleChildScrollView
+I learnt CustomPaint majorly with this task and how to work with SingleChildScrollView. I also learnt how to use url launcher to open links in a web browser.
