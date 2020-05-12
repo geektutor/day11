@@ -11,3 +11,11 @@ Here is my final screen
 Other screenshots as I went through the development process can be found [here](https://github.com/geektutor/day11/blob/master/screenshot/) 
 
 I learnt CustomPaint majorly with this task and how to work with SingleChildScrollView. I also learnt how to use url launcher to open links in a web browser.
+
+#### Helpful Resources
+
+https://www.raywenderlich.com/7560981-drawing-custom-shapes-with-custompainter-in-flutter
+
+https://zocada.com/drawing-custom-shapes-in-flutter-using-custompainter/
+
+https://gist.github.com/geektutor/5092ef51bf220ab5ff1be90429e6443d
